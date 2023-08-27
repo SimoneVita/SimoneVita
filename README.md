@@ -14,6 +14,6 @@ _________________________________________________
 ✅В июле 2023 года я данный курс окончил.
 
 📞Со мной можно связаться следующими способами:
-  Telegram: https://t.me/vitaly_vasilich_s
-  E-mail: vitalysimonenko@yandex.ru
-  Linked in: https://www.linkedin.com/in/dev-simonevita/
+- Telegram: https://t.me/vitaly_vasilich_s
+- E-mail: vitalysimonenko@yandex.ru
+- Linked in: https://www.linkedin.com/in/dev-simonevita/
